@@ -44,9 +44,14 @@ public class ArrayOfObjects {
         st[2]=s3;
 
 
-        for(int i=0;i<st.length;i++)
+        // for(int i=0;i<st.length;i++)
+        // {
+        //     st[i].Details();
+        // }
+
+        for(Student s:st)
         {
-            st[i].Details();
+            s.Details();
         }
 
 
