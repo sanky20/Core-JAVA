@@ -1,3 +1,4 @@
+import utils.tools.AdvanceCalc;
 
 class Calc { // super class
     public int add(int i, int j) {

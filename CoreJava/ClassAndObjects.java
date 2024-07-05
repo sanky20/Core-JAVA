@@ -12,6 +12,10 @@ class Calculator{
         return a+b+c;
     
     }
+    public void show() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'show'");
+    }
 }
 
 public class ClassAndObjects {
